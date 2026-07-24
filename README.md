@@ -7,7 +7,7 @@
 ## Author
 
 **Justin Mfaume**
-Bachelor of Social Sciences in Economics — Marginal Distinction (78%)
+Bachelor of Social Sciences in Economics — Marginal Distinction (77%)
 Minor in Statistics
 Best Academic Performance Award (2025)
 First student in the Economics Department to achieve a Distinction since 2019
