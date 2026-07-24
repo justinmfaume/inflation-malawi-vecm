@@ -19,7 +19,7 @@ City:Lilongwe, Malawi
 
 **Supervisor:** Mr. P. Mvula — Lecturer and Dissertation Supervisor, Department of Economics, The Catholic University of Malawi
 
-**Software Used:** STATA 17 · Microsoft Excel 
+**Software Used:** Stata 17 · Microsoft Excel 
 
 ---
 
